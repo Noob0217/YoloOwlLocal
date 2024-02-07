@@ -1,0 +1,6 @@
+train: C:\Users\Mir Asim Ali\yoloowl\train
+val: C:\Users\Mir Asim Ali\yoloowl\val
+
+nc: 1
+
+names: ["owl"]
